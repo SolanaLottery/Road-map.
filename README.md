@@ -1,5 +1,6 @@
 # Road-map.
 1- Twitter account for the project. (As it turned out, it's quite difficult to get the first followers).
+
 2- Discord server. A place where you will find out important upcoming events and discuss any news. Every day we improve the functionality of the server. Today it is intuitively clear and there are no unnecessary details. We are going to add several international chats, for the convenience of communicating in our native language, we consider this an important point.
 3- Website. We are currently using a temporary site. After the first mint, we will start developing a permanent and understandable website for Solana Lottery.
 4- First mint - will have 111 nft and have the value of the OG project role holder. (number of nft of this role will remain unchanged).
