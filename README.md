@@ -5,8 +5,8 @@
 
 3- Website. We are currently using a temporary site. After the first mint, we will start developing a permanent and understandable website for Solana Lottery.
 
-4- First mint - will have 111 nft and have the value of the OG project role holder. (number of nft of this role will remain unchanged).
-After minting, you will be able to sell this NFT. (but this is not the best idea, read the section about the role of the OG project.)
+4- First mint - will have 111 nft and have the value of the OG SL role holder. (number of nft of this role will remain unchanged).
+After minting, you will be able to sell this NFT. (but this is not the best idea, read the section about the role of the OG SL.)
 
 5- Second mint. After all the payouts to the winners, we will consider ways to collaborate with communities to promote and reach a larger audience of crypto enthusiasts and crypto lovers.
 
